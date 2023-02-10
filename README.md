@@ -29,7 +29,7 @@ Please see [get_started.md](docs/get_started.md) for the basic usage of MADet.
 
 ## Acknowledgement
 
-The implementation of MADet is based on [MMDetection](https://github.com/open-mmlab/mmdetection).
+The implementation of MADet is based on [mmdetection](https://github.com/open-mmlab/mmdetection).
 
 ## License
 
