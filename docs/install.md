@@ -107,7 +107,7 @@ c. Some dependencies are optional. Simply running `pip install -v -e .` will
  when calling `pip` (e.g. `pip install -v -e .[optional]`). 
  Valid keys for the extras field are: `all`, `tests`, `build`, and `optional`.
  
- d. If you install torchvision < 0.5.0, please run `pip install "pillow<9"` to avoid `ImportError`.
+d. If you install torchvision < 0.5.0, please run `pip install "pillow<9"` to avoid `ImportError`.
 
 ### Install with CPU only
 
