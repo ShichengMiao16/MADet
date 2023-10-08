@@ -37,7 +37,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Citation
 ```
-@article{
+@ARTICLE{MADet,
   title = {Mutual-Assistance Learning for Object Detection},
   author = {Xie, Xingxing and Lang, Chunbo and Miao, Shicheng and Cheng, Gong and Li, Ke and Han, Junwei},
   journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
