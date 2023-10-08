@@ -43,6 +43,6 @@ This project is released under the [Apache 2.0 license](LICENSE).
   journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year = {2023},
   pages = {1-14},
-  doi = {https://doi.org/10.1109/TPAMI.2023.3319634}
+  doi = {10.1109/TPAMI.2023.3319634}
 }
 ```
