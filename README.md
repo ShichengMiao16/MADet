@@ -38,10 +38,11 @@ This project is released under the [Apache 2.0 license](LICENSE).
 ## Citation
 ```
 @article{
-  title = "Mutual-Assistance Learning for Object Detection",
-  author = "Xie Xingxing, Lang Chunbo, Miao Shicheng, Cheng Gong, Li Ke, Han Junwei",
-  journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-  year = "2023",
-  doi = "https://doi.org/10.1109/TPAMI.2023.3319634"
+  title = {Mutual-Assistance Learning for Object Detection},
+  author = {Xie, Xingxing and Lang, Chunbo and Miao, Shicheng and Cheng, Gong and Li, Ke and Han, Junwei},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year = {2023},
+  pages = {1-14},
+  doi = {https://doi.org/10.1109/TPAMI.2023.3319634}
 }
 ```
