@@ -1,4 +1,4 @@
-# MADet: Mutual-Assistance Learning for Object Detection
+# [MADet: Mutual-Assistance Learning for Object Detection](https://ieeexplore.ieee.org/abstract/document/10265160)
 
 ## Introduction
 
@@ -34,3 +34,14 @@ The implementation of MADet is based on [mmdetection](https://github.com/open-mm
 ## License
 
 This project is released under the [Apache 2.0 license](LICENSE).
+
+## Citation
+```
+@article{
+  title = "Mutual-Assistance Learning for Object Detection",
+  author = "Xie Xingxing, Lang Chunbo, Miao Shicheng, Cheng Gong, Li Ke, Han Junwei",
+  journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  year = "2023",
+  doi = "https://doi.org/10.1109/TPAMI.2023.3319634"
+}
+```
