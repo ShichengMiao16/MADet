@@ -14,6 +14,14 @@ Please refer to [install.md](docs/install.md) for installation.
 
 Please see [get_started.md](docs/get_started.md) for the basic usage of MADet.
 
+## Results and models
+
+### MS-COCO dataset
+
+| Backbone | Lr schd | box AP |                           Baidu Yun                          |                                           Google Drive                                         |
+|:--------:|:-------:|:------:|:------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
+|  R50-FPN |    1x   |  42.5  | [key: 71gj](https://pan.baidu.com/s/18mULqHGtnIAZv8n5G1xYhg) | [model](https://drive.google.com/file/d/17g3VxwXTs7Mf2XdMt2WQ4NIlP_tdpgI_/view?usp=drive_link) |
+
 ## Acknowledgement
 
 The implementation of MADet is based on [mmdetection](https://github.com/open-mmlab/mmdetection).
