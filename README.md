@@ -18,9 +18,10 @@ Please see [get_started.md](docs/get_started.md) for the basic usage of MADet.
 
 ### MS-COCO dataset
 
-| Backbone | Lr schd | box AP |                           Baidu Yun                          |                                           Google Drive                                         |
-|:--------:|:-------:|:------:|:------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
-|  R50-FPN |    1x   |  42.5  | [key: 71gj](https://pan.baidu.com/s/18mULqHGtnIAZv8n5G1xYhg) | [model](https://drive.google.com/file/d/17g3VxwXTs7Mf2XdMt2WQ4NIlP_tdpgI_/view?usp=drive_link) |
+|   Data   | Backbone | Lr schd | box AP |                      Config                       |                           Baidu Yun                          |                                           Google Drive                                         |
+|:--------:|:--------:|:-------:|:------:| :-----------------------------------------------: |:------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
+| Trainval |  R50-FPN |    1x   |  42.5  | [config](configs/madet/madet_r50_fpn_1x_coco.py)  | [key: ks5i](https://pan.baidu.com/s/150_hjx-1aOB4ryPTuHF2VA) | [model](https://drive.google.com/file/d/17g3VxwXTs7Mf2XdMt2WQ4NIlP_tdpgI_/view?usp=drive_link) |
+|  Train   |  R50-FPN |    1x   |  42.3  | [config](configs/madet/madet_r50_fpn_1x_coco.py)  | [key: yatj](https://pan.baidu.com/s/12EcyqBVtQBb17hNwuumDKg) | [model](https://drive.google.com/file/d/1ubGMexbs9W3cNgtyy7wkgGkG3rrcl1F1/view?usp=drive_link) |
 
 ## Acknowledgement
 
