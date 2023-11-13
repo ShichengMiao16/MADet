@@ -21,7 +21,7 @@ Please see [get_started.md](docs/get_started.md) for the basic usage of MADet.
 | Backbone | Lr schd | Box AP |  Set  |                      Config                       |                           Baidu Yun                          |                                           Google Drive                                         |
 |:--------:|:-------:|:------:|:-----:| :-----------------------------------------------: |:------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
 |  R50-FPN |    1x   |  42.5  | test  | [config](configs/madet/madet_r50_fpn_1x_coco.py)  | [key: ks5i](https://pan.baidu.com/s/150_hjx-1aOB4ryPTuHF2VA) | [model](https://drive.google.com/file/d/17g3VxwXTs7Mf2XdMt2WQ4NIlP_tdpgI_/view?usp=drive_link) |
-|  R50-FPN |    1x   |  42.3  |  val  | [config](configs/madet/madet_r50_fpn_1x_coco.py)  | [key: yatj](https://pan.baidu.com/s/12EcyqBVtQBb17hNwuumDKg) | [model](https://drive.google.com/file/d/1ubGMexbs9W3cNgtyy7wkgGkG3rrcl1F1/view?usp=drive_link) |
+|  R50-FPN |    1x   |  42.2  |  val  | [config](configs/madet/madet_r50_fpn_1x_coco.py)  | [key: yatj](https://pan.baidu.com/s/12EcyqBVtQBb17hNwuumDKg) | [model](https://drive.google.com/file/d/1ubGMexbs9W3cNgtyy7wkgGkG3rrcl1F1/view?usp=drive_link) |
 
 ## Acknowledgement
 
